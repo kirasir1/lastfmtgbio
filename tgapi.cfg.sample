@@ -1,0 +1,6 @@
+[tg_api_creds]
+api_id = YOUR_API_ID
+api_hash = YOUR_API_HASH
+[lastfm_creds]
+user = YOUR_LASTFM_USERNAME
+api_key = YOUR_LASTFM_API_KEY
